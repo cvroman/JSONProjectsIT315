@@ -1,0 +1,11 @@
+{
+  "CoffeeBrand":
+  [
+    {"coffeeName":"French Roast","coffeeDescription":"","coffeeBrand":"Starbucks","coffeeType":"Dark Roast","coffeeSize":"18oz","coffeeCost":"11.24","coffeeImage":"https://raw.githubusercontent.com/cvroman/JSONProjectsIT315/master/starkbucksfr.jpeg","coffeeWebsite":""},
+    {"coffeeName":"Premium Roast","coffeeDescription":"","coffeeBrand":"McDonalds","coffeeType":"Medium Roast","coffeeSize":"12oz","coffeeCost":"6.48","coffeeImage":"https://raw.githubusercontent.com/cvroman/JSONProjectsIT315/master/mcdonaldscf.jpeg","coffeeWebsite":""},
+    {"coffeeName":"Breakfast Blend","coffeeDescription":"","coffeeBrand":"Maxwell House","coffeeType":"Light Roast","coffeeSize":"11oz","coffeeCost":"3.98","coffeeImage":"https://raw.githubusercontent.com/cvroman/JSONProjectsIT315/master/maxwellhouse.jpeg","coffeeWebsite":""},
+    {"coffeeName":"French Roast","coffeeDescription":"","coffeeBrand":"Tim Hortons","coffeeType":"Dark Roast","coffeeSize":"12oz","coffeeCost":"6.99","coffeeImage":"https://raw.githubusercontent.com/cvroman/JSONProjectsIT315/master/timhortons.jpeg","coffeeWebsite":""},
+    {"coffeeName":"Classic Roast","coffeeDescription":"","coffeeBrand":"Folgers","coffeeType":"Medium Roast","coffeeSize":"12oz","coffeeCost":"4.98","coffeeImage":"https://raw.githubusercontent.com/cvroman/JSONProjectsIT315/master/folgers.jpg","coffeeWebsite":""}
+  ],
+  "Status":"OK"
+}
